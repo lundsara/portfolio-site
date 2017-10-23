@@ -1,0 +1,239 @@
+.App {
+  text-align: center;
+  font-family: Lato, sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  line-height: 1em;
+  font-size: 10em;
+  color: #ff5e53;
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    #contain {
+        width: 100%;
+    }
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+body{
+margin-top: 200px;
+font-family: Lato, sans-serif;
+display: block;
+height: infinite;
+overflow-y: auto;
+z-index: 500;
+font-size: 20px;
+color: rgba(0,0,0,0.54);
+min-height: 1000px;
+
+}
+li {
+  list-style: none;
+  list-style-type: none;
+
+}
+ul{
+  list-style: none;
+  list-style-type: none;
+
+}
+
+nav ul {
+  display: flex;
+  margin: 20px;
+  list-style-type: none;
+}
+
+nav ul li {
+  padding: 15px;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  list-style-type: none;
+}
+
+nav ul li a {
+  list-style-type: none;
+  color: black;
+  text-decoration: none;
+  list-style-type: none;
+  color: rgba(0,0,0,0.54);
+}
+
+
+p{
+  font-size: 40px;
+}
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  display: block;
+  height: 5%;
+  margin: auto;
+  padding: 2% 3%;
+  background-color: white;
+  box-shadow: 0 0 25px rgba(21,30,53,.15);
+  background-position: right top;
+  z-index: 500;
+  font-family: Lato, sans-serif;
+  font-style: italic;
+  color: #ff5e53;
+
+
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  max-height: 2%;
+  margin-top: 95%;
+  color: black;
+  padding: 2% 3%;
+  background-color: white;
+  box-shadow:  0 0 25px rgba(21,30,53,.15);
+  font-family: Lato, sans-serif;
+  font-size: 20px;
+  color: #ff5e53;
+  margin: 0 auto;
+  text-align: center;
+}
+
+nav{
+margin-left: 60%;
+margin-top:-140px;
+}
+ #about{
+
+  height: 400px;
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 400px;
+  font-weight: 100;
+  margin-top: -80px;
+ }
+
+  #contact{
+  height: 400px;
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 200px;
+
+ }
+ #projects{
+  height: 400px;
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 3000px;
+ }
+
+#title {
+  margin-top: -20px;
+  font-size: 65px;
+  font-weight: bold;
+  color: #ff5e53;
+}
+.highlight {
+   color: #ff5e53;
+   font-weight: 500;
+}
+
+.big {
+      width: 920px;
+    height: 572px;
+  text-align: center;
+  margin: 0 auto;
+  border: solid 10px rgba(0,0,0,0.54);
+}
+
+a {
+ color: #ff5e53;
+  text-decoration: none;
+  font-style: italic;
+}
+a:hover{
+
+  text-decoration: underline;
+}
+#resume{
+  font-style: italic;
+
+}
+#skills{
+  font-weight: 100;
+}
+#title2{
+  font-weight: 500;
+  color: #ff5e53;
+
+}
+#me{
+  margin-bottom: 100px;
+
+}
+.projectlink{
+  font-weight: 100;
+  color: #ff5e53;
+  text-decoration: underline;
+}
+a:hover{
+ color: #ff5e53;
+  }
+
+#welcome{
+   font-weight: 100;
+   margin-top: -50px;
+}
+.icons {
+  padding: 10px 60px 10px 1px;
+  margin-top: -20px;
+
+}
+.big:hover{
+  border: solid 10px #ff5e53;
+}
+.specific{
+  color: #ff5e53;
+  text-decoration: underline;
+}
+
+.options:hover {
+
+  font-weight: bold;
+  color: #ff5e53;
+}
+.options{
+  margin-top: 16px;
+  }
+  .specific{
+  margin-top: 16px;
+  }
+  .circle{
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 160px;
+  margin-bottom: 40px;
+  width: 250px;
+  height: 250px;
+  -moz-border-radius: 125px;
+  -webkit-border-radius: 125px;
+  border-radius: 125px;
+  border: solid white 10px;
+  box-shadow:  0 0 15px rgba(21,30,53,.15);
+  text-shadow: 2px 2px #000000;
+  }
+
+
+
