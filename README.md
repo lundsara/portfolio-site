@@ -1,6 +1,6 @@
 # Portfolio Site
 
-## See it live at sclund.com
+## See it live [my website](http://sclund.com.com)
 
 ![screenshot](https://i.imgur.com/QgTWjDQ.png)
 
