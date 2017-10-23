@@ -2,7 +2,7 @@
 
 ## See it live at sclund.com
 
-Format: ![screenshot](https://i.imgur.com/QgTWjDQ.png)
+![screenshot](https://i.imgur.com/QgTWjDQ.png)
 
 
 ## Technologies:
