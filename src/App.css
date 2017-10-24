@@ -134,7 +134,7 @@ margin-top:-140px;
   margin: 0 auto;
   text-align: center;
   font-weight: bold;
-  margin-bottom: 3000px;
+  margin-bottom: 5000px;
  }
 
 #title {
@@ -149,8 +149,8 @@ margin-top:-140px;
 }
 
 .big {
-      width: 920px;
-    height: 572px;
+  width: 920px;
+  height: 572px;
   text-align: center;
   margin: 0 auto;
   border: solid 10px rgba(0,0,0,0.54);
@@ -233,6 +233,11 @@ a:hover{
   border: solid white 10px;
   box-shadow:  0 0 15px rgba(21,30,53,.15);
   text-shadow: 2px 2px #000000;
+  }
+  .tech {
+    font-style: italic;
+    font-weight: 100;
+    font-size: 28px;
   }
 
 

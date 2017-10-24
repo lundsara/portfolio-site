@@ -34,7 +34,7 @@ class About extends Component {
       <p>SQL, PostgreSQL, Firebase,</p>
       <p>Git, Github, Unix</p>
       </div>
-     <p id="resume"> For more details on my background and experience <br/> please see my <span class="highlight"><a target="_blank" href="https://resume.creddle.io">resume</a></span></p>
+     <p id="resume"> For more details on my background and experience <br/> please see my <span class="highlight"><a target="_blank" href="https://resume.creddle.io/resume/cp839enewhg">resume</a></span></p>
 
     </div>
 

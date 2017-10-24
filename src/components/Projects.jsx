@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
 
+
+
+
 class Projects extends Component {
   render() {
     return (
@@ -21,20 +24,25 @@ class Projects extends Component {
       <p id="welcome">This is my project page! Please explore my recent work!</p>
 
  <p class="projectlink"> <a target="_blank" href="http://electrician-gary-84651.bitballoon.com">Maison Candide</a></p>
+ <p class="tech">  React.js, Ruby on Rails, Shopify SDK </p>
    <a target="_blank" href="http://electrician-gary-84651.bitballoon.com"><img class="big" src="https://i.imgur.com/02ANO9R.png"/></a>
 
        <p class="projectlink"> <a target="_blank" href="https://github.com/lundsara/mood_diary">Mood Diary</a></p>
-    <a target="_blank" href="https://github.com/lundsara/mood_diary"><img class="big" src="https://i.imgur.com/W8XuXV4.png"/></a>
+       <p class="tech">  React.js, IBM Watson API, Firebase </p>
+    <a target="_blank" href="https://github.com/lundsara/mood-diary"><img class="big" src="https://i.imgur.com/W8XuXV4.png"/></a>
 
         <p class="projectlink"> <a target="_blank" href="https://class-critique.herokuapp.com">Class Critique</a></p>
+        <p class="tech"> Node.js, Express.js, HTML5, CSS3, Javascript </p>
     <a target="_blank" href="https://class-critique.herokuapp.com/"><img class="big" src="https://i.imgur.com/tC1NxAX.png"/></a>
 
    <p class="projectlink"> <a target="_blank" href="http://security-administrator-wallace-20772.bitballoon.com/">American Art Afficianado Trivia</a></p>
+  <p class="tech"> HTML5, CSS3, Javascript </p>
   <a target="_blank" href="http://security-administrator-wallace-20772.bitballoon.com/"><img class="big" src="https://i.imgur.com/tVEikzq.png"/></a>
 
 
    <p class="projectlink"> <a target="_blank" href="https://github.com/lundsara/tweeder">Tweeder</a></p>
-   <a target="_blank" href="https://github.com/lundsara/tweeder"><img class="big" src="https://i.imgur.com/cIOB3MG.png"/></a>
+   <p class="tech"> React.js, Node.js, Express.js </p>
+   <a target="_blank" href="https://github.com/lundsara/tweedr"><img class="big" src="https://i.imgur.com/cIOB3MG.png" alt="tweederpic"/></a>
 
     </div>
 
