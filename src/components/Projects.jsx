@@ -23,13 +23,10 @@ class Projects extends Component {
       <div id="projects">
       <p id="welcome">This is my project page! Please explore my recent work!</p>
 
- <p class="projectlink"> <a target="_blank" href="http://electrician-gary-84651.bitballoon.com">Maison Candide</a></p>
- <p class="tech">  React.js, Ruby on Rails, Shopify SDK </p>
-   <a target="_blank" href="http://electrician-gary-84651.bitballoon.com"><img class="big" src="https://i.imgur.com/02ANO9R.png"/></a>
 
        <p class="projectlink"> <a target="_blank" href="https://github.com/lundsara/mood_diary">Mood Diary</a></p>
        <p class="tech">  React.js, IBM Watson API, Firebase </p>
-    <a target="_blank" href="https://github.com/lundsara/mood-diary"><img class="big" src="https://i.imgur.com/W8XuXV4.png"/></a>
+    <a target="_blank" href="https://mood-diary-scl.herokuapp.com/home"><img class="big" src="https://i.imgur.com/W8XuXV4.png"/></a>
 
         <p class="projectlink"> <a target="_blank" href="https://class-critique.herokuapp.com">Class Critique</a></p>
         <p class="tech"> Node.js, Express.js, HTML5, CSS3, Javascript </p>
@@ -39,10 +36,19 @@ class Projects extends Component {
   <p class="tech"> HTML5, CSS3, Javascript </p>
   <a target="_blank" href="http://security-administrator-wallace-20772.bitballoon.com/"><img class="big" src="https://i.imgur.com/tVEikzq.png"/></a>
 
+   <p class="projectlink"> <a target="_blank" href="http://boiling-arithmetic.surge.sh/">React Giphy</a></p>
+   <p class="tech"> React.js, Giphy API, CSS3 </p>
+   <a target="_blank" href="http://boiling-arithmetic.surge.sh/"><img class="big" src="https://i.imgur.com/glJ728e.png" alt="giphypic"/></a>
 
-   <p class="projectlink"> <a target="_blank" href="https://github.com/lundsara/tweeder">Tweeder</a></p>
+
+   <p class="projectlink"> <a target="_blank" href="https://scl-tweeder.herokuapp.com/">Tweeder</a></p>
    <p class="tech"> React.js, Node.js, Express.js </p>
-   <a target="_blank" href="https://github.com/lundsara/tweedr"><img class="big" src="https://i.imgur.com/cIOB3MG.png" alt="tweederpic"/></a>
+   <a target="_blank" href="https://scl-tweeder.herokuapp.com/"><img class="big" src="https://i.imgur.com/cIOB3MG.png" alt="tweederpic"/></a>
+
+
+ <p class="projectlink"> <a target="_blank" href="https://github.com/lundsara/candide-app">Maison Candide (In Development)</a></p>
+ <p class="tech">  React.js, Ruby on Rails, Shopify SDK </p>
+   <a target="_blank" href="https://github.com/lundsara/candide-app"><img class="big" src="https://i.imgur.com/02ANO9R.png"/></a>
 
     </div>
 

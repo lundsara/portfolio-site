@@ -134,7 +134,7 @@ margin-top:-140px;
   margin: 0 auto;
   text-align: center;
   font-weight: bold;
-  margin-bottom: 5000px;
+  margin-bottom: 7000px;
  }
 
 #title {
@@ -194,11 +194,6 @@ a:hover{
    font-weight: 100;
    margin-top: -50px;
 }
-.icons {
-  padding: 10px 60px 10px 1px;
-  margin-top: -20px;
-
-}
 .big:hover{
   border: solid 10px #ff5e53;
 }
@@ -223,14 +218,14 @@ a:hover{
   position: relative;
   margin: 0 auto;
   text-align: center;
-  margin-top: 160px;
+  margin-top: 220px;
   margin-bottom: 40px;
   width: 250px;
   height: 250px;
   -moz-border-radius: 125px;
   -webkit-border-radius: 125px;
   border-radius: 125px;
-  border: solid white 10px;
+
   box-shadow:  0 0 15px rgba(21,30,53,.15);
   text-shadow: 2px 2px #000000;
   }
@@ -239,6 +234,10 @@ a:hover{
     font-weight: 100;
     font-size: 28px;
   }
+  .icons {
+  padding: 10px 60px 10px 1px;
+  margin-top: -20px;
+}
 
 
 
