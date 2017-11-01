@@ -32,9 +32,9 @@ class Projects extends Component {
         <p class="tech"> Node.js, Express.js, HTML5, CSS3, Javascript </p>
     <a target="_blank" href="https://class-critique.herokuapp.com/"><img class="big" src="https://i.imgur.com/tC1NxAX.png"/></a>
 
-   <p class="projectlink"> <a target="_blank" href="http://security-administrator-wallace-20772.bitballoon.com/">American Art Afficianado Trivia</a></p>
+   <p class="projectlink"> <a target="_blank" href="http://art-aficionado.surge.sh">American Art Aficionado Trivia</a></p>
   <p class="tech"> HTML5, CSS3, Javascript </p>
-  <a target="_blank" href="http://security-administrator-wallace-20772.bitballoon.com/"><img class="big" src="https://i.imgur.com/tVEikzq.png"/></a>
+  <a target="_blank" href="http://art-aficionado.surge.sh"><img class="big" src="https://i.imgur.com/tVEikzq.png"/></a>
 
    <p class="projectlink"> <a target="_blank" href="http://boiling-arithmetic.surge.sh/">React Giphy</a></p>
    <p class="tech"> React.js, Giphy API, CSS3 </p>
