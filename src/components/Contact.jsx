@@ -20,8 +20,8 @@ class Contact extends Component {
      <p> Let's get in touch! </p>
 
      <p class="sociallink"> <a href="mailto:sarah.christine.lund@gmail.com"><span class="highlight">email:</span> sarah.christine.lund@gmail.com</a></p>
-     <p class="sociallink"> <a href="https://twitter.com/slund_nyc"><span class="highlight">twitter:</span> @slund_nyc</a></p>
-     <p class="sociallink"> <a href="https://www.linkedin.com/in/sarah-c-lund/"><span class="highlight">linkedin:</span> www.linkedin.com/in/sarah-c-lund</a></p>
+     <p class="sociallink"> <a target="_blank" href="https://twitter.com/slund_nyc"><span class="highlight">twitter:</span> @slund_nyc</a></p>
+     <p class="sociallink"> <a target="_blank" href="https://www.linkedin.com/in/sarah-c-lund/"><span class="highlight">linkedin:</span> www.linkedin.com/in/sarah-c-lund</a></p>
     </div>
     </div>
     );
