@@ -40,9 +40,9 @@ class Projects extends Component {
    <p class="tech"> React.js, Giphy API, CSS3 </p>
    <a target="_blank" href="http://boiling-arithmetic.surge.sh/"><img class="big" src="https://i.imgur.com/glJ728e.png" alt="giphypic"/></a>
 
-  <p class="projectlink"> <a target="_blank" href="bshapiro.surge.sh">Portfolio Site</a></p>
+  <p class="projectlink"> <a target="_blank" href="https://bshapiro.surge.sh">Portfolio Site</a></p>
   <p class="tech">  React.js, Javascript, CSS3 </p>
-   <a target="_blank" href="bshapiro.surge.sh"><img class="big" src="https://i.imgur.com/jYP7UI1.png"/></a>
+   <a target="_blank" href="https://bshapiro.surge.sh"><img class="big" src="https://i.imgur.com/jYP7UI1.png"/></a>
 
 
    <p class="projectlink"> <a target="_blank" href="https://scl-tweeder.herokuapp.com/">Tweeder</a></p>
@@ -50,9 +50,9 @@ class Projects extends Component {
    <a target="_blank" href="https://scl-tweeder.herokuapp.com/"><img class="big" src="https://i.imgur.com/cIOB3MG.png" alt="tweederpic"/></a>
 
 
- <p class="projectlink"> <a target="_blank" href="https://github.com/lundsara/candide-app">Maison Candide (In Development)</a></p>
- <p class="tech">  React.js, Ruby on Rails, Shopify SDK, CSS3 </p>
-   <a target="_blank" href="https://github.com/lundsara/candide-app"><img class="big" src="https://i.imgur.com/02ANO9R.png"/></a>
+ <p class="projectlink"> <a target="_blank" href="http://candide-beta.surge.sh/">Maison Candide (In Development)</a></p>
+ <p class="tech">  HTML, Javascript, Shopify SDK, CSS3 </p>
+   <a target="_blank" href="http://candide-beta.surge.sh/"><img class="big" src="https://i.imgur.com/02ANO9R.png"/></a>
 
 
 
