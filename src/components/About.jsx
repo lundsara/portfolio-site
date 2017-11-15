@@ -31,9 +31,9 @@ class About extends Component {
       <div id="skills">
       <p>Javascript, HTML5, CSS3, React,</p>
       <p>Node.js, Express.js, Ruby on Rails,</p>
-      <p>SQL, PostgreSQL, Firebase,</p>
-      <p>Git, Github, Unix, APIs, Responsive Design,</p>
-      <p>JSON, jQuery,Shopify, MailChimp</p>
+      <p>SQL, PostgreSQL, Firebase, APIs,</p>
+      <p>Git, Github, Unix, Responsive Design,</p>
+      <p>JSON, jQuery, Shopify, MailChimp</p>
 
       </div>
      <p id="resume"> For more details on my background and experience <br/> please see my <span class="highlight"><a target="_blank" href="https://resume.creddle.io/resume/cp839enewhg">resume</a></span> or check me out on <span class="highlight"><a target="_blank" href="https://angel.co/sarah-lund">Angel List!</a></span></p>
