@@ -317,7 +317,7 @@ nav ul li a {
   margin: 0 auto;
   text-align: center;
   font-weight: bold;
-  margin-bottom: 500px;
+  margin-bottom: 50px;
   font-weight: 100;
   margin-top: -80px;
   margin-top: -30%;
@@ -328,8 +328,8 @@ nav ul li a {
   margin-top: -20%;
   width: 100%;
   height: 100%;
-  margin-top: -30%;
-  margin-bottom: 75%;
+
+  margin-bottom: 55%;
 
  }
  header {
@@ -345,6 +345,10 @@ nav ul li a {
   .tech{
     font-size: 12px;
   }
+  .icons {
+  height: 5%;
+  width: 5%;
+}
 
 
 }
