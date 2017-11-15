@@ -123,11 +123,12 @@ margin-top:-140px;
  }
 
   #contact{
-  height: 400px;
+  height: 100%;
   width: 900px;
   margin: 0 auto;
   text-align: center;
   font-weight: bold;
+  margin-bottom: 20%;
 
  }
  #projects{
