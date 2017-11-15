@@ -24,7 +24,7 @@ class Projects extends Component {
       <p id="welcome">This is my project page! Please explore my recent work!</p>
 
 
-       <p class="projectlink"> <a target="_blank" href="https://github.com/lundsara/mood_diary">Mood Diary</a></p>
+       <p class="projectlink"> <a target="_blank" href="https://mood-diary-scl.herokuapp.com/home">Mood Diary</a></p>
        <p class="tech">  React.js, IBM Watson API, Firebase </p>
     <a target="_blank" href="https://mood-diary-scl.herokuapp.com/home"><img class="big" src="https://i.imgur.com/W8XuXV4.png"/></a>
 
