@@ -28,6 +28,8 @@ z-index: 500;
 font-size: 20px;
 color: rgba(0,0,0,0.54);
 min-height: 1000px;
+min-height: 110%;
+
 
 }
 li {
@@ -42,14 +44,14 @@ ul{
 }
 
 nav ul {
+  margin-top: 20px;
   display: flex;
-  margin: 20px;
   list-style-type: none;
 }
 
 nav ul li {
-  padding: 15px;
-  font-size: 1.3em;
+  padding: 25px;
+  font-size: 1em;
   letter-spacing: 1px;
   list-style-type: none;
 }
@@ -64,7 +66,7 @@ nav ul li a {
 
 
 p{
-  font-size: 40px;
+  font-size: 30px;
 }
 header {
   position: fixed;
@@ -73,7 +75,7 @@ header {
   white-space: nowrap;
   overflow: hidden;
   display: block;
-  height: 5%;
+  height: 3%;
   margin: auto;
   padding: 2% 3%;
   background-color: white;
@@ -87,10 +89,10 @@ header {
 
 }
 footer {
-  position: fixed;
+
   bottom: 0;
   width: 100%;
-  max-height: 2%;
+  max-height: .7%;
   margin-top: 95%;
   color: black;
   padding: 2% 3%;
@@ -109,14 +111,15 @@ margin-top:-140px;
 }
  #about{
 
-  height: 400px;
+  height: 700px;
   width: 1000px;
   margin: 0 auto;
   text-align: center;
   font-weight: bold;
-  margin-bottom: 400px;
+  margin-bottom: 500px;
   font-weight: 100;
   margin-top: -80px;
+
  }
 
   #contact{
@@ -125,21 +128,20 @@ margin-top:-140px;
   margin: 0 auto;
   text-align: center;
   font-weight: bold;
-  margin-bottom: 200px;
 
  }
  #projects{
-  height: 400px;
-  width: 900px;
+  height: 100%;
+  width: 100%;
   margin: 0 auto;
   text-align: center;
   font-weight: bold;
-  margin-bottom: 7000px;
+  margin-bottom: 5%;
  }
 
 #title {
   margin-top: -20px;
-  font-size: 65px;
+  font-size: 50px;
   font-weight: bold;
   color: #ff5e53;
 }
@@ -238,6 +240,9 @@ a:hover{
   padding: 10px 60px 10px 1px;
   margin-top: -20px;
 }
+
+
+
 
 
 

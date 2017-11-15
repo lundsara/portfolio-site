@@ -13,6 +13,7 @@ class Contact extends Component {
          <li class="options"><Link to="/projects">Projects</Link></li>
          <li class="options"><Link to="/about">About</Link></li>
          <li class="specific"><Link to="/contact">Contact</Link></li>
+
        </ul>
       </nav>
       </header>
@@ -22,6 +23,8 @@ class Contact extends Component {
      <p class="sociallink"> <a href="mailto:sarah.christine.lund@gmail.com"><span class="highlight">email:</span> sarah.christine.lund@gmail.com</a></p>
      <p class="sociallink"> <a target="_blank" href="https://twitter.com/slund_nyc"><span class="highlight">twitter:</span> @slund_nyc</a></p>
      <p class="sociallink"> <a target="_blank" href="https://www.linkedin.com/in/sarah-c-lund/"><span class="highlight">linkedin:</span> www.linkedin.com/in/sarah-c-lund</a></p>
+     <p class="sociallink"> <a target="_blank" href="https://angel.co/sarah-lund"><span class="highlight">angel list:</span> www.angel.co/sarah-lund</a></p>
+
     </div>
     </div>
     );
