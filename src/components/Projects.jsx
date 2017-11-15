@@ -21,7 +21,8 @@ class Projects extends Component {
       </nav>
       </header>
       <div id="projects">
-      <p id="welcome">This is my project page! Please explore my recent work!</p>
+      <p id="welcome">This is my project page!
+      <br/>Please explore my recent work!</p>
 
 
        <p class="projectlink"> <a target="_blank" href="https://mood-diary-scl.herokuapp.com/home">Mood Diary</a></p>
