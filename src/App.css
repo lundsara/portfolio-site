@@ -284,15 +284,15 @@ ul{
 }
 
 nav ul {
-  margin-left: -75%;
-  margin-top: 50%;
+  margin-left: -60%;
+  margin-top: 80%;
   display: flex;
   list-style-type: none;
 }
 
 nav ul li {
-  padding: 4%;
-  font-size: .8em;
+  padding: 2%;
+  font-size: .5em;
   letter-spacing: 1px;
   list-style-type: none;
 }
@@ -305,7 +305,7 @@ nav ul li a {
   color: rgba(0,0,0,0.54);
 }
 #projects{
-  margin-top: -30%;
+  margin-top: 0px;
 }
  .icons {
   padding: 5px 30px 5px 1px;
@@ -334,13 +334,17 @@ nav ul li a {
 
  }
  header {
-    height: 7%;
+    height: 10%;
  }
   #title{
-    margin-top: -1%;
+    margin-top: 5%;
 
     font-size: 30px;
 
+  }
+
+  .tech{
+    font-size: 12px;
   }
 
 
