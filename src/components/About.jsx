@@ -4,25 +4,25 @@ import {Link} from 'react-router-dom';
 class About extends Component {
   render() {
     return (
-      <div class="container">
+      <div className="container">
         <header>
 
       <p id='title'><Link to="/about">Sarah Lund</Link></p>
         <nav>
        <ul>
-         <li class="options"><Link to="/projects">Projects</Link></li>
-         <li class="specific"><Link to="/about">About</Link></li>
-         <li class="options"><Link to="/contact">Contact</Link></li>
+         <li className="options"><Link to="/projects">Projects</Link></li>
+         <li className="specific"><Link to="/about">About</Link></li>
+         <li className="options"><Link to="/contact">Contact</Link></li>
        </ul>
       </nav>
       </header>
 
       <div id="about">
-      <img class="circle" src="https://pbs.twimg.com/profile_images/921846498454917120/3EbdHIAk_400x400.jpg"/>
-      <p id="me"> Hello, my name is<span class="highlight"> Sarah Lund</span> and I am a NYC-based web developer!
-       I am a <span class="highlight">visual</span> and <span class="highlight">analytical</span> thinker who enjoys bringing <span class="highlight">creative</span> solutions
+      <img className="circle" src="https://pbs.twimg.com/profile_images/921846498454917120/3EbdHIAk_400x400.jpg"/>
+      <p id="me"> Hello, my name is<span className="highlight"> Sarah Lund</span> and I am a NYC-based web developer!
+       I am a <span className="highlight">visual</span> and <span className="highlight">analytical</span> thinker who enjoys bringing <span className="highlight">creative</span> solutions
       to modern web applications.
-      Please explore my projects and get in touch if you are interested in working <span class="highlight">together!</span></p>
+      Please explore my projects and get in touch if you are interested in working <span className="highlight">together!</span></p>
 
   <path d="M38.301 154.693c38.525 2.084 75.399-14.437 90.708-52.33 15.31-37.893 10.976-59.2-26.608-91.64C64.817-21.72 23.097 26.816 7.787 64.71c-15.31 37.893-8.01 87.9 30.514 89.982z" fill="#09FA90" fill-rule="evenodd" fill-opacity=".85"></path>
 
