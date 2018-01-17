@@ -9,7 +9,7 @@
 react.js, HTML5, CSS3
 
 ## Projects Represented:
-
+-The Good Sweat (blog)
 -Maison Candide (e-commerce)
 -Mood Diary (Sentiment Analysis using IBM Watson API)
 -Class Critique (CRUD application)
