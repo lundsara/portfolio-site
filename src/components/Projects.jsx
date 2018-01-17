@@ -24,6 +24,10 @@ class Projects extends Component {
       <p id="welcome">This is my project page!
       <br/>Please explore my recent work!</p>
 
+      <p class="projectlink"> <a target="_blank" href="https://good-sweat.herokuapp.com/blogs/">The Good Sweat</a></p>
+ <p className="tech">  Node.js, Express.js, EJS, CSS3 </p>
+   <a target="_blank" href="https://good-sweat.herokuapp.com/blogs/"><img className="big" src="https://i.imgur.com/34BHI48.png"/></a>
+
       <p class="projectlink"> <a target="_blank" href="http://candide-beta.surge.sh/">Maison Candide</a></p>
  <p className="tech">  HTML, Javascript, Shopify SDK, CSS3 </p>
    <a target="_blank" href="http://candide-beta.surge.sh/"><img className="big" src="https://i.imgur.com/02ANO9R.png"/></a>
