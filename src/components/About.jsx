@@ -19,7 +19,7 @@ class About extends Component {
 
       <div id="about">
       <img className="circle" src="https://pbs.twimg.com/profile_images/921846498454917120/3EbdHIAk_400x400.jpg"/>
-      <p id="me"> Hello, my name is<span className="highlight"><Link to="/contact">Sarah Lund</Link></span> and I am a NYC-based web developer!
+      <p id="me"> Hello, my name is <span className="highlight"><Link to="/contact">Sarah Lund</Link></span> and I am a NYC-based web developer!
        I am a <span className="highlight">visual</span> and <span className="highlight">analytical</span> thinker who enjoys bringing <span className="highlight">creative</span> solutions
       to modern web applications.
       Please explore my <Link to="/projects">projects</Link> and get in touch if you are interested in working <span className="highlight">together!</span></p>

@@ -30,7 +30,7 @@ class Projects extends Component {
 
       <p class="projectlink"> <a target="_blank" href="http://candide-beta.surge.sh/">Maison Candide</a></p>
  <p className="tech">  HTML, Javascript, Shopify SDK, CSS3 </p>
-   <a target="_blank" href="http://candide-beta.surge.sh/"><img className="big" src="https://i.imgur.com/02ANO9R.png"/></a>
+   <a target="_blank" href="http://candide-beta.surge.sh/"><img className="big" src="https://imgur.com/SiRrzP5.png"/></a>
 
 
 
