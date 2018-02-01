@@ -250,6 +250,21 @@ a:hover{
  margin-top:-140px;
  }
 
+ p{
+  font-size: 18px;
+}
+
+.big {
+  max-width: 80%;
+  height: auto;
+}
+
+#me{
+  max-width: 80%;
+  text-align: center;
+  margin: 0 auto;
+}
+
 }
 
 
