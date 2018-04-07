@@ -28,13 +28,6 @@ class Projects extends Component {
  <p className="tech">  Node.js, Express.js, EJS, CSS3 </p></div>
  <div class="left">  <a target="_blank" href="https://good-sweat.herokuapp.com/blogs/"><img className="big" src="https://i.imgur.com/34BHI48.png"/></a></div>
 
-      <p class="projectlink"> <a target="_blank" href="http://candide-beta.surge.sh/">Maison Candide</a></p>
- <p className="tech">  HTML, Javascript, Shopify SDK, CSS3 </p>
-   <a target="_blank" href="http://candide-beta.surge.sh/"><img className="big" src="https://imgur.com/SiRrzP5.png"/></a>
-
-
-
-
        <p className="projectlink"> <a target="_blank" href="https://mood-diary-scl.herokuapp.com/home">Mood Diary</a></p>
        <p className="tech">  React.js, IBM Watson API, Firebase </p>
     <a target="_blank" href="https://mood-diary-scl.herokuapp.com/home"><img className="big" src="https://i.imgur.com/W8XuXV4.png"/></a>
